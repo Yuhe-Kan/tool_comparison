@@ -1,0 +1,34 @@
+L1S140	gut
+L1S208	gut
+L1S8	gut
+L1S281	gut
+L3S242	right palm
+L2S309	left palm
+L2S357	left palm
+L4S112	right palm
+L2S155	left palm
+L2S382	left palm
+L4S63	right palm
+L2S222	left palm
+L3S341	right palm
+L3S360	right palm
+L2S204	left palm
+L4S137	right palm
+L3S294	right palm
+L2S175	left palm
+L5S203	tongue
+L6S93	tongue
+L6S20	tongue
+L6S68	tongue
+L1S257	gut
+L3S378	right palm
+L1S105	gut
+L5S174	tongue
+L5S155	tongue
+L5S222	tongue
+L5S104	tongue
+L1S57	gut
+L1S76	gut
+L5S240	tongue
+L3S313	right palm
+L2S240	left palm
